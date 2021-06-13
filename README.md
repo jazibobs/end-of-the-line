@@ -1,5 +1,3 @@
-# End of the line
-
 ![arcade-font-title](https://user-images.githubusercontent.com/3301610/121807240-e2a34680-cc85-11eb-93cd-c213cc5e10d8.png)
 
 An endless runner built using Unity for the GMTK 2021 Game Jam.
